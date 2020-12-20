@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm clam314 👋
 
-<div align="center">
 <summary> 😄 <b>My Github Stats</b>: </summary>
  <br/>
+<div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats" title="clam314's Github Stars">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clam314&count_private=true&show_icons=true&hide=issues&line_height=24&theme=default&bg_color=DEG,fccb90,d57eeb" />
  </a>
