@@ -1,6 +1,6 @@
 ### Hi there, I'm clam314 👋
 
-<summary> 😄 <b>My Github Stats</b>: </summary>
+* <summary> 😄 <b>My Github Stats</b>: </summary>
  <br/>
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats" title="clam314's Github Stars">
