@@ -6,9 +6,6 @@
  <a href="https://github.com/anuraghazra/github-readme-stats" title="clam314's Github Stars">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clam314&count_private=true&show_icons=true&hide=issues&line_height=24&theme=prussian" />
  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Tops Language">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clam314&layout=compact&show_icons=true&theme=prussian" />
- </a>
  </div>
  
  
